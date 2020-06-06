@@ -7,7 +7,7 @@
 # Bruna Mendes
 <sub> Computer scientist | </sub> <sub>Data science enthusiast </sub> 
 
-This repository contains all my data science projects using Pyhton.
+This repository contains all my data science projects in Pyhton.
 
 **Links:**
 
