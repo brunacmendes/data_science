@@ -5,11 +5,9 @@
 </p>
 
 # Bruna Mendes
-<sub> Computer Scientist | </sub> <sub>Data Science student at *sigmoidal.ai* </sub> 
+<sub> Computer scientist | </sub> <sub>Data science enthusiast </sub> 
 
-My credentials include a Bachelor's in Computer Science from Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais (IFMG).
-
-**Background in:** Python, Machine Learning, Image Processing, MySQL, HTML.
+I am always open to new challenges and developing new skills because I believe multi disciplinarity can enhance personal and professional lifes. I'm currently a Data Science student building knowledge to solve real problems using data. My academic background includes a Bachelor's degree in Computer Science at Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais (IFMG), with strong background in Python, Computer Vision, Machine Learning and years of experience developing software.
 
 **Links:**
 
