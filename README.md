@@ -7,7 +7,7 @@
 # Bruna Mendes
 <sub> Computer scientist | </sub> <sub>Data science enthusiast </sub> 
 
-I am always open to new challenges and developing new skills because I believe multi disciplinarity can enhance personal and professional lifes. I'm currently a Data Science student building knowledge to solve real problems using data. My academic background includes a Bachelor's degree in Computer Science at Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais (IFMG), with strong background in Python, Computer Vision, Machine Learning and years of experience developing software.
+This repository contains all my data science projects using Pyhton.
 
 **Links:**
 
@@ -23,3 +23,6 @@ I am always open to new challenges and developing new skills because I believe m
 |--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [project-name](link) | Description here. |
 
+## About me
+
+I am always open to new challenges and developing new skills because I believe multi disciplinarity can enhance personal and professional lifes. I'm currently a Data Science student building knowledge to solve real problems using data. My academic background includes a Bachelor's degree in Computer Science at Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais (IFMG), with strong background in Python, Computer Vision, Machine Learning and years of experience developing software.
