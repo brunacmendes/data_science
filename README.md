@@ -25,4 +25,4 @@ This repository contains all my data science projects in Pyhton.
 
 ## About me
 
-I am always open to new challenges and developing new skills because I believe multi disciplinarity can enhance personal and professional lifes. I'm currently a Data Science student building knowledge to solve real problems using data. My academic background includes a Bachelor's degree in Computer Science at Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais (IFMG), with technical proficiencies in Python, Computer Vision, Machine Learning and years of experience developing software and improving my programming logic.
+I am always open to new challenges and developing new skills because I believe multi disciplinarity can enhance personal and professional lifes. I'm currently a Data Science student building knowledge to solve real problems using data. My academic background includes a Bachelor's degree in Computer Science at Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais (IFMG), with technical proficiencies in Python, Computer Vision, Machine Learning and years of experience developing software.
