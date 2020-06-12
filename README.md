@@ -21,7 +21,7 @@ This repository contains all my data science projects in Pyhton.
 
 | Notebook | Description |
 |--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [project-name](link) | Description here. |
+| [AirBnB Listings Data Analysis — Toronto](link) | Description here. |
 
 ## About me
 
