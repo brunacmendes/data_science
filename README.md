@@ -20,8 +20,8 @@ This repository contains all my data science projects in Pyhton.
 ### data-science-ipython-notebooks
 
 | Notebook | Description |
-|--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [AirBnB Listings Data Analysis — Toronto](link) |  I used the City of Toronto summarized dataset to take some insights from the data (exploratory analysis).|
+|---------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
+| [AirBnB Listings Data Analysis (Toronto)](link) |  I used the City of Toronto summarized dataset to take some insights from the data (exploratory analysis).|
 
 ## About me
 
