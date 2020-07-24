@@ -18,8 +18,8 @@ This repository contains all my data science projects in Pyhton.
 * [Medium](https://www.medium.com/@brucmendes)
 
 
-### Projects:
-#### Jupyter notebooks
+## Projects
+### Jupyter notebooks:
 
 | Notebook | Description |
 |---------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
