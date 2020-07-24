@@ -4,8 +4,10 @@
   <img src="banner.png" >
 </p>
 
-# Bruna Mendes
+## About me
 <sub> Computer scientist | </sub> <sub>Data science enthusiast </sub> 
+
+I am open to new challenges and developing new skills because I believe multi disciplinarity can enhance personal and professional lifes. I'm currently a Data Science student building knowledge to solve real problems using data. My academic background includes a Bachelor's degree in Computer Science at Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais (IFMG), with technical proficiencies in Python, Computer Vision, Machine Learning and experience developing software.
 
 This repository contains all my data science projects in Pyhton.
 
@@ -23,6 +25,3 @@ This repository contains all my data science projects in Pyhton.
 |---------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
 | [AirBnB Listings Data Analysis (Toronto)](link) |  I used the City of Toronto summarized dataset to take some insights from the data (exploratory analysis).|
 
-## About me
-
-I am always open to new challenges and developing new skills because I believe multi disciplinarity can enhance personal and professional lifes. I'm currently a Data Science student building knowledge to solve real problems using data. My academic background includes a Bachelor's degree in Computer Science at Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais (IFMG), with technical proficiencies in Python, Computer Vision, Machine Learning and years of experience developing software.
