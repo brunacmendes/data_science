@@ -5,9 +5,9 @@
 </p>
 
 ## About me
-<sub> Computer scientist | </sub> <sub>Data science enthusiast </sub> 
+<sub> Computer scientist | </sub> <sub>Data science </sub> 
 
-I'm currently a Data Science student building knowledge to solve real problems using data. I am open to new challenges and developing new skills because I believe multi disciplinarity can enhance personal and professional lives. My academic background includes a Bachelor's degree in Computer Science at Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais (IFMG), with technical proficiencies in Python, Machine Learning and experience developing software.
+Data Scientist building knowledge to solve real problems using data. I am open to new challenges and developing new skills because I believe multi disciplinarity can enhance personal and professional lives. My academic background includes a Bachelor's degree in Computer Science at Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais (IFMG), with technical proficiencies in Python, Machine Learning and experience developing software.
 
 This repository contains all my data science projects in Pyhton.
 
@@ -22,5 +22,5 @@ This repository contains all my data science projects in Pyhton.
 
 | Notebook | Description |
 |---------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
-| [AirBnB Listings Data Analysis (Toronto)](https://github.com/brunacmendes/data_science/blob/master/AirBnB_Listings_Data_Analysis_Toronto.ipynb) |  I used the City of Toronto summarized dataset to take some insights from the data (exploratory analysis).|
+| [AirBnB Listings Data Analysis (Toronto)](https://github.com/brunacmendes/Airbnb_Data_Analysis_Toronto/blob/main/Airbnb_Listings_Data_Analysis_Toronto.ipynb) |  I used the City of Toronto summarized dataset to take some insights from the data (exploratory analysis).|
 
