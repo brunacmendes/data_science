@@ -22,5 +22,6 @@ This repository contains all my data science projects in Pyhton.
 
 | Notebook | Description |
 |---------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
-| [AirBnB Listings Data Analysis (Toronto)](https://github.com/brunacmendes/Airbnb_Data_Analysis_Toronto/blob/main/Airbnb_Listings_Data_Analysis_Toronto.ipynb) |  I used the City of Toronto summarized dataset to take some insights from the data (exploratory analysis).|
+| [AirBnB Listings Data Analysis (Toronto)](https://github.com/brunacmendes/Airbnb_Data_Analysis_Toronto) |  I used the City of Toronto summarized dataset to take some insights from the data (exploratory analysis).|
 | [New York City Crime Analysis](https://www.kaggle.com/brunacmendes/new-york-crime-analysis/) |  Using NYPD Complaint Data to analyze crime events with pandas library.|
+| [Loan's Approval Prediction](https://github.com/brunacmendes/loan_prediction_project) | Pre-process the dataset and implement a classification model to predict whether or not a loan application is approved using Neural Networks with Keras |
