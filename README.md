@@ -7,9 +7,11 @@
 ## About me
 <sub> Computer scientist | </sub> <sub>Data science </sub> 
 
-Data Scientist building knowledge to solve real problems using data. I am open to new challenges and developing new skills because I believe multi disciplinarity can enhance personal and professional lives. My academic background includes a Bachelor's degree in Computer Science at Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais (IFMG), with technical proficiencies in Python, Machine Learning and experience developing software.
+Data engineer with 5+ years of experience in data integration and analytics. I design, debug, and optimize pipelines between systems, working with SQL, PL/SQL, Python, and XML/JSON data.
 
-This repository contains all my data science projects in Pyhton.
+I hold a B.Sc. in Computer Science from IFMG (Instituto Federal de Minas Gerais). I enjoy learning new tools and applying them to real data problems.
+
+This repository contains all my data science projects in Python.
 
 **Links:**
 
